@@ -1,20 +1,25 @@
-# [NAME]
+# Chemistry Lab Tests
 
-[DESCRIPTION]
+Contains the graphs for the chemistry lab single action tests.
 
 # How To Run
 
 Prerequisites:
-* [TOOL] version ```[VERSION]``` or later
+* python version ```3.6``` or later
+* virtualenv version ```16.7.9``` or later
 
-### Development
+### Command
 
-[DEVELOPMENT]
-
-### Production
-
-[PRODUCTION]
+1. Run ```virtualenv venv``` to create a virtual environment if you do not have one already.
+2. Run ```source venv/Scripts/activate``` to enter the virtual environment.
+3. Run ```pip install -R requirements/notebook.txt``` to install the requirements.
+4. Run ```jupyter notebook``` to start the notebook server.
+5. Select the ```chemistry-lab-tests``` notebook from the jupyter interface.
 
 # References
 
-[REFERENCES]
+[Jupyter](https://jupyter.org/)
+
+[Pandas](https://pandas.pydata.org/)
+
+[Matplotlib](https://matplotlib.org/)
