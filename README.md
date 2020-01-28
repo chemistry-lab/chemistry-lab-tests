@@ -18,6 +18,8 @@ Prerequisites:
 
 # References
 
+[Python](https://www.python.org/)
+
 [Jupyter](https://jupyter.org/)
 
 [Pandas](https://pandas.pydata.org/)
