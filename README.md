@@ -12,7 +12,7 @@ Prerequisites:
 
 1. Run ```virtualenv venv``` to create a virtual environment if you do not have one already.
 2. Run ```source venv/Scripts/activate``` to enter the virtual environment.
-3. Run ```pip install -R requirements/notebook.txt``` to install the requirements.
+3. Run ```pip install -r requirements/notebook.txt``` to install the requirements.
 4. Run ```jupyter notebook``` to start the notebook server.
 5. Select the ```chemistry-lab-tests``` notebook from the jupyter interface.
 
